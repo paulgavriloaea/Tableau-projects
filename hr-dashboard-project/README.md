@@ -1,7 +1,7 @@
 # 📊 HR Dashboard – User Story & Data Generation
 
 This project is inspired by [Data with Baraa](https://www.youtube.com/watch?v=UcGF09Awm4Y)
-
+[Link to my Tableau public](https://public.tableau.com/app/profile/paul.gavriloaea/viz/HR_dashboards_17686901935590/HRDetails)
 
 ---
 
