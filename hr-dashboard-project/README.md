@@ -5,6 +5,8 @@ This project is inspired by [Data with Baraa](https://www.youtube.com/watch?v=Uc
 
 ---
 
+![Dashboard Preview](HR_dashboard.png)
+
 ## 🧩 User Story – HR Dashboard
 
 **As an HR Manager**, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
