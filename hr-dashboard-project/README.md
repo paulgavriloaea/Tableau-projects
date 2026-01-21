@@ -113,19 +113,12 @@ The [Python script](generate_data.py) generates a **realistic HR dataset of 8,95
 ---
 
 ## Project tree
-- **hr-dashboard/**
-  - **data/**
-    - hr_dataset.csv
-    - README.md
-  - **scripts/**
-    - hr_data_generator.py
-  - **dashboard/**
-    - hr_dashboard.pbix
-  - **notebooks/**
-    - analysis.ipynb
-  - **images/**
-    - dashboard_preview.png
-  - **README.md**
-
+hr-dashboard-project/
+├── generate_data.py
+├── HR Dashboard.twbx
+├── HR_dashboards.pdf
+├── HumanResources.csv
+├── images/
+└── mockups.drawio
 
 
