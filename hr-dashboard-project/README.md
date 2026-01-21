@@ -87,7 +87,7 @@ Provide a comprehensive employee list with the following fields:
 
 # 🧪 Data Generation – Python Script
 
-The following Python script generates a **realistic HR dataset of 8,950 records** using controlled probabilities and business logic.
+The [Python script](generate_data.py) generates a **realistic HR dataset of 8,950 records** using controlled probabilities and business logic.
 
 ---
 
@@ -111,6 +111,21 @@ The following Python script generates a **realistic HR dataset of 8,950 records*
 - Adjusted Salary  
 
 ---
+
+## Project tree
+- **hr-dashboard/**
+  - **data/**
+    - hr_dataset.csv
+    - README.md
+  - **scripts/**
+    - hr_data_generator.py
+  - **dashboard/**
+    - hr_dashboard.pbix
+  - **notebooks/**
+    - analysis.ipynb
+  - **images/**
+    - dashboard_preview.png
+  - **README.md**
 
 
 
