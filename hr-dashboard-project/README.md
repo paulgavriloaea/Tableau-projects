@@ -1,5 +1,8 @@
 # 📊 HR Dashboard – User Story & Data Generation
 
+This project is inspired by [Data with Baraa](https://www.youtube.com/watch?v=UcGF09Awm4Y)
+
+
 ---
 
 ## 🧩 User Story – HR Dashboard
