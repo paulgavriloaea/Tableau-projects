@@ -115,34 +115,12 @@ The [Python script](generate_data.py) generates a **realistic HR dataset of 8,95
 ## Project tree
 ```
 hr-dashboard-project
-├── generate_data.py
-├── HR Dashboard.twbx
-├── HR_dashboards.pdf
-├── HumanResources.csv
-├── images
-│   ├── 00 Project Icons.psd
-│   ├── background dashbaord details.png
-│   ├── background dashbaord summary.png
-│   ├── ban hired.png
-│   ├── ban terminated.png
-│   ├── contact-channel.png
-│   ├── contact-linkedin.png
-│   ├── contact-public.png
-│   ├── dashboard-records-active1.png
-│   ├── dashboard-records-inactive.png
-│   ├── dashboard-summary-active.png
-│   ├── dashboard-summary-inactive.png
-│   ├── download image.png
-│   ├── download pdf.png
-│   ├── filter-active.png
-│   ├── filter-group-hidden.png
-│   ├── filter-group-shown.png
-│   ├── filter-inactive.png
-│   ├── info-hidden.png
-│   ├── info-shown.png
-│   └── Logo.png
-├── mockups.drawio
-└── story.txt
+├── generate_data.py # the python script used to generate data
+├── HR Dashboard.twbx # tableau project file 
+├── HR_dashboards.pdf # pdf of main dashboard
+├── HumanResources.csv # generated data
+├── images/ # logos used throughout project
+└──  mockups.drawio # structure of the dashboard
 ```
 
 
