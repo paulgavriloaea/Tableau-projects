@@ -6,6 +6,7 @@ This project is inspired by [Data with Baraa](https://www.youtube.com/watch?v=Uc
 ---
 
 ![Dashboard Preview](HR_dashboard.png)
+![Dashboard Preview](HR_dashboard_details.png)
 
 ## 🧩 User Story – HR Dashboard
 
