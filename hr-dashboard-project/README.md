@@ -113,7 +113,7 @@ The [Python script](generate_data.py) generates a **realistic HR dataset of 8,95
 ---
 
 ## Project tree
-
+```
 hr-dashboard-project
 ├── generate_data.py
 ├── HR Dashboard.twbx
@@ -143,8 +143,7 @@ hr-dashboard-project
 │   └── Logo.png
 ├── mockups.drawio
 └── story.txt
-
-2 directories, 27 files
+```
 
 
 
